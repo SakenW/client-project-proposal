@@ -1,0 +1,4 @@
+interface:
+  display_name: "客户项目提案"
+  short_description: "面向客户的共投剧与文旅提案写作，突出项目理由、商业价值与附加权益"
+  default_prompt: "使用 $client-project-proposal 完善这份客户提案，明确各页职责与项目合作价值，统一形式称谓、排名和跨页引用，保留必要数据及来源。"
